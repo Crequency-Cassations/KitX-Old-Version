@@ -1,64 +1,50 @@
-<pre align="center">
-██╗  ██╗    ██╗    ████████╗              ██╗  ██╗
-██║ ██╔╝    ██║    ╚══██╔══╝              ╚██╗██╔╝
-█████╔╝     ██║       ██║       █████╗     ╚███╔╝ 
-██╔═██╗     ██║       ██║       ╚════╝     ██╔██╗ 
-██║  ██╗    ██║       ██║                 ██╔╝ ██╗
-╚═╝  ╚═╝    ╚═╝       ╚═╝                 ╚═╝  ╚═╝
-</pre>
+# Stopped updating !!!
+Accroding to some unavoidable reasons
+I had to announce that: I had to stop the updating for KitX
+so we are waiting for the development for KitX 3
+a totally reprogramed framework and new technologies
+hope for its better development
 
-<!-- <p align="center">
-  <pre align="center">
-                                                                                 
-----    ---- --------  ------------ ---      --- 
-****   ****  ********  ************  ***    ***  
-----  ----     ----    ------------   ---  ---   
-*********      ****        ****        ******    
----------      ----        ----        ------    
-****  ****     ****        ****       ***  ***   
-----   ----  --------      ----      ---    ---  
-****    **** ********      ****     ***      *** 
-                                                 
-  </pre>
-<p> -->
+newer KitX repo address: [https://github.com/Catrol-org/KitX](https://github.com/Crequency/KitX)
 
-<!--
-<p align="center">
-  <pre align="center">
-                                                                                 
- /$$   /$$ /$$$$$$ /$$$$$$$$       /$$   /$$
-| $$  /$$/|_  $$_/|__  $$__/      | $$  / $$
-| $$ /$$/   | $$     | $$         |  $$/ $$/
-| $$$$$/    | $$     | $$          \  $$$$/ 
-| $$  $$    | $$     | $$           >$$  $$ 
-| $$\  $$   | $$     | $$          /$$/\  $$
-| $$ \  $$ /$$$$$$   | $$         | $$  \ $$
-|__/  \__/|______/   |__/         |__/  |__/
-                                            
-                                            
-  </pre>
-</p>
--->
+# KitX - A tool box
 
-<!--
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/t/5707791?s=280&v=4"/><br>
-</p>
--->
+## Info
+1. Main Framework : .Net Framework 4.8 WPF Desktop 
+2. KitX.Updater Framework : .Net 6 WPF Desktop
+3. Main Programing Language : C#
+4. Other Programing Language : Visual Basic
+5. Plug-ins Framework : MEF
+6. Total storge (with default offcial plug-ins (11 of 844 KB of 11 Files)) : 251 MB of 219 Files
+7. UI Library : MaterialDesign , HandyControl , PopEye.WPF
+8. C# Library : Library , Lierda.WPFHelper , MySqlConnector , SharpCompress , SharpVectors
+9. Other Library : CefSharp
+10. Main Function : Local plug-ins management , User profile cloud async , Download plug-ins from Web Plug-ins Market, Local apps shortcut
+11. Other Funciton : Go to explorer them !
+12. Latest version v2.0.4
+13. Default Language : Simplified Chinese
+14. Support Language : Simplified Chinese , Traditional Chinese , English(US) , Japanese
 
-<p align="center">  
-  <a href="./LICENSE"><img src="https://img.shields.io/github/license/Dynesshely/conconcon-tri-buter?style=for-the-badge"></img></a>
-  <a href=""><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img></a>
-  <a href=""><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></img></a>
-  <a href=""><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"></img></a>
-</p>
+## Links
+1. Author home : https://blog.catrol.cn
+2. KitX home : https://works.catrol.cn/KitX
+3. KitX develop documents : https://docs.catrol.cn/old/kitxdocs
+4. KitX official default plug-ins help documents : https://docs.catrol.cn/kitxplugins
 
-<p align="center">  
-  🌐 <a href="#-中文文档">中文</a> | <a href="#-english-docs">English</a><br>
-</p>
+## Join me
+You can connect me at
+1. QQ e-mail : catrol@qq.com
+2. Gmail : dynesshely@gmail.com
+3. Outlook : 
+4. QQ Group : 518573921
+5. Slack : Get it in QQ Group
 
-# 📃 中文文档
-建设中...
+---
 
-# 📃 English Docs
-building...
+Copyright © Catrol 2021
+<br>
+All rights reserved.
+<br>
+You can download the KitX source code and edit it , you can share it , but you can not use it to earn money and use it in any commercial activity.
+<br>
+After you create branch , you can connect with me to combine your branch with master branch , and became the contributer.
